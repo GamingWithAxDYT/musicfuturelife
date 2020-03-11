@@ -1,0 +1,5 @@
+token=Njg3MjY2MzE5MjY3MjY2NzA1.XmjQyw.q-oD29VTiHC34iYaBkTwQMTdrSw
+owner=347132803059548160
+prefix=@play
+stayinchannel=true
+songinstatus=true
